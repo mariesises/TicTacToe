@@ -1,0 +1,42 @@
+*{
+  background-color: #5FD0FE;
+}
+.container {
+  text-align: center;
+  align-content: center;
+  font-size: 1.5em;
+}
+h1{
+  font-size: 3em;
+}
+
+.box{
+  width: 6em;
+  height: 8em;
+  border: 3px solid black;
+  display: inline-block;
+  line-height: 7em;
+  background-color: white;
+
+}
+
+.tablero {
+  display: inline-flex;
+  flex-wrap: wrap;
+  width: 21em;
+  margin-bottom: 30px;
+  
+
+}
+
+.formulario{
+  font-size: x-large;
+}
+
+.button{
+  width: 8em;
+  height: 2em;
+  font-size: 15px;
+  border-radius: 16px;
+  margin-bottom: 20px;
+}
